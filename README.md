@@ -1,6 +1,6 @@
-# MCBatch
+# LegacyBatch
 
-MCBatch es un launcher de Minecraft simple y eficiente, desarrollado en Batch.
+LegacyBatch es un launcher de Minecraft simple y eficiente, desarrollado en Batch.
 
 ## Características
 
