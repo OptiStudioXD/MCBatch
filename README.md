@@ -1,6 +1,6 @@
-# LegacyBatch
+# MCBatch
 
-LegacyBatch es un launcher de Minecraft simple y eficiente, desarrollado en Batch.
+MCBatch es un launcher de Minecraft simple y eficiente, desarrollado en Batch.
 
 ## Características
 
@@ -15,5 +15,7 @@ LegacyBatch es un launcher de Minecraft simple y eficiente, desarrollado en Batc
 ## Descarga
 
 [Descarga MCBatch](https://github.com/OptiStudioXD/MCBatch/LINK)
+
+[Prueba la alpha de LegacyMine](https://github.com/OptiStudioXD/LegacyMine/LINK)
 
 
