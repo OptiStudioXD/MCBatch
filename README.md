@@ -14,7 +14,7 @@ MCBatch es un launcher de Minecraft simple y eficiente, desarrollado en Batch.
 
 ## Descarga
 
-[Descarga MCBatch](https://github.com/OptiStudioXD/MCBatch/LINK)
+[Descarga MCBatch](https://github.com/OptiStudioXD/MCBatch/releases/download/v1.0.1/MCBatch-1.0.7z)
 
 [Prueba la alpha de LegacyMine](https://github.com/OptiStudioXD/LegacyMine/LINK)
 
