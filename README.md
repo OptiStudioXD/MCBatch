@@ -1,24 +1,22 @@
 # MCBatch
 
-MCBatch es un launcher de Minecraft simple y eficiente, desarrollado en Batch.
+MCBatch is a simple and efficient Minecraft launcher developed in Batch.
 
-## Características
+## Features
 
-- **Lanzamiento Rápido**: Inicia Minecraft desde el mismo Batch!
-- **Múltiples Perfiles**: Solo permite una version, pero con varias cuentas NO PREMIUM!
-- **Interfaz de Línea de Comandos**: Control total a través de la terminal.
+- **Quick Launch**: Start Minecraft directly from the Batch!
+- **Multiple Profiles**: Allows only one version, but supports multiple NO PREMIUM accounts!
+- **Command Line Interface**: Full control through the terminal.
 
-## Requisitos recomendados
+## Recommended Requirements
 
-- Windows (preferiblemente Win 10 1806 o superior)
-- CPU AMD Athlon II / Intel i3 a 2,8Ghz (Minecraft)
-- GPU GPU: NVIDIA GeForce 2xx | AMD Radeon HD 5xxx
-- RAM 4GB
+- Windows (preferably Win 10 1806 or higher)
+- CPU: AMD Athlon II / Intel i3 at 2.8GHz (for Minecraft)
+- GPU: NVIDIA GeForce 2xx | AMD Radeon HD 5xxx
+- RAM: 4GB
 
-## Descarga
+## Download
 
-[Descarga MCBatch](https://github.com/OptiStudioXD/MCBatch/releases/download/v1.0.1/MCBatch-1.0.7z)
+[Download MCBatch](https://github.com/OptiStudioXD/MCBatch/releases/download/v1.0.1/MCBatch-1.0.7z)
 
-[Prueba la Indev de LegacyMine](https://github.com/OptiStudioXD/LegacyMine)
-
-
+[Try the Indev version of LegacyMine](https://github.com/OptiStudioXD/LegacyMine)
